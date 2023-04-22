@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="storeapp">StoreApp</string>
+    <string name="storeapp">SampleApp</string>
     <string name="home">Home</string>
     <string name="news">News</string>
     <string name="profile">Profile</string>

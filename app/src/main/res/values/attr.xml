@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StoreAppCustomTextView">
+        <attr name="fontType" format="enum">
+            <enum name="regular" value="1"/>
+            <enum name="light" value="2"/>
+            <enum name="bold" value="3"/>
+            <enum name="semiBold" value="4"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="ProfileOptionsView">
+        <attr name="optionText" format="string"/>
+        <attr name="optionIcon" format="integer"/>
+    </declare-styleable>
+</resources>

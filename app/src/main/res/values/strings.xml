@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="storeapp">StoreApp</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="profile">Profile</string>
+    <string name="nested_scrollview">Nested ScrollView</string>
+    <string name="top_deals">Top Deals</string>
+    <string name="today_deals">Today Deals</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
